@@ -1,6 +1,4 @@
 .venv
 .DS_Store
-TEST
-TRAIN
 *.xlsx
 *.csv
